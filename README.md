@@ -71,7 +71,7 @@ Below are two of the most impactful insights from the project:
 
 ### Q3: What is the Average Salary by Department?
 
-![Average Salary by Department](images/avg_salary_department.png)
+![Average Salary by Department](images/avg_salary_department_v2.png)
 
 This visualization compares the average monthly income across departments.  
 It helps identify compensation patterns and highlights departments with higher or lower salary structures.
@@ -80,7 +80,7 @@ It helps identify compensation patterns and highlights departments with higher o
 
 ### Q15: Which Departments Have the Highest Attrition Rate?
 
-![Attrition Rate by Department](images/attrition_rate_department.png)
+![Attrition Rate by Department](images/attrition_rate_department_v2.png)
 
 This chart highlights departments experiencing the most employee turnover.  
 Such insights are critical for HR teams to prioritize retention strategies and address workforce stability issues.
